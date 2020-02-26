@@ -1,4 +1,10 @@
 export default class Ingrediente{
+    /**
+     * 
+     * @param {Cantidad} cantidad 
+     * @param {String} nombre 
+     * @param {Number} costo 
+     */
     constructor(cantidad, nombre, costo)
     {
         this.cantidad = cantidad

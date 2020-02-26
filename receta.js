@@ -1,4 +1,9 @@
 export default class Receta{
+    /**
+     * 
+     * @param {String} nombre 
+     * @param {String} autor 
+     */
     constructor(nombre, autor)
     {
         this.nombre = nombre

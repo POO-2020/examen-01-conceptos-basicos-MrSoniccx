@@ -1,4 +1,9 @@
 export default class Cantidad{
+    /**
+     * 
+     * @param {Number} valor 
+     * @param {String} unidad 
+     */
     constructor(valor, unidad)
     {
         this.valor = valor
